@@ -1,0 +1,6 @@
+# ninja log v5
+0	2286	6884103668378649	build.ninja	3424def56450aaea
+5	9561	6884103770077981	CMakeFiles/BigDicmalInt_class.dir/main.cpp.obj	ec9c7df1e75ed1f0
+1	9571	6884103770157792	CMakeFiles/BigDicmalInt_class.dir/BigDecimalInt.cpp.obj	8bfa9bfefcaa4697
+9572	12617	6884103800566482	BigDicmalInt_class.exe	d75635be1b374e26
+4	1393	6884121799494512	CMakeFiles/BigDicmalInt_class.dir/BigDecimalInt.cpp.obj	8bfa9bfefcaa4697
